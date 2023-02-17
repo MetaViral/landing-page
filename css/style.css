@@ -123,7 +123,7 @@ button {
 }
 .main-heading {
   font-weight: 300;
-  font-size: 40px;
+  font-size: 32px;
   line-height: 55px;
 }
 .main-heading span {
@@ -131,7 +131,7 @@ button {
 }
 .info-text {
   margin-top: 1.5rem;
-  font-size: 19px;
+  font-size: 18px;
   line-height: 28px;
   color: #334157;
 }
