@@ -30,6 +30,10 @@ body {
   overflow-x: hidden;
   background-color: #fafbfb;
 }
+.logo{
+  display: flex;
+  gap:1rem;
+}
 ul li {
   list-style-type: none;
 }
